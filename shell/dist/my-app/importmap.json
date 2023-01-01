@@ -1,0 +1,24 @@
+{
+  "imports": {
+    "@angular/animations": "_angular_animations-14_2_12.js",
+    "@angular/animations/browser": "_angular_animations_browser-14_2_12.js",
+    "@angular/common": "_angular_common-14_2_12.js",
+    "@angular/common/http": "_angular_common_http-14_2_12.js",
+    "@angular/compiler": "_angular_compiler-14_2_12.js",
+    "@angular/core": "_angular_core-14_2_12.js",
+    "@angular/forms": "_angular_forms-14_2_12.js",
+    "@angular/platform-browser": "_angular_platform_browser-14_2_12.js",
+    "@angular/platform-browser/animations": "_angular_platform_browser_animations-14_2_12.js",
+    "@angular/platform-browser-dynamic": "_angular_platform_browser_dynamic-14_2_12.js",
+    "@angular/router": "_angular_router-14_2_12.js",
+    "rxjs": "rxjs-7_5_7.js",
+    "rxjs/ajax": "rxjs_ajax-7_5_7.js",
+    "rxjs/fetch": "rxjs_fetch-7_5_7.js",
+    "rxjs/operators": "rxjs_operators-7_5_7.js",
+    "rxjs/testing": "rxjs_testing-7_5_7.js",
+    "rxjs/webSocket": "rxjs_webSocket-7_5_7.js",
+    "tslib": "tslib-2_4_1.js",
+    "tslib/": "tslib_-2_4_1.js",
+    "shared": ""
+  }
+}

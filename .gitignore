@@ -1,2 +1,5 @@
 /node_modules/
 /.idea/
+/dist/
+/shell/node_modules/
+/mfe1/node_modules/
